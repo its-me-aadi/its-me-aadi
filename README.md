@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=its-me-aadi&show_icons=true&hide_border=true&theme=dark&locale=en" alt="aditya" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-aadi&hide_border=true&theme=dark" alt="aditya" /></p>
