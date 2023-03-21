@@ -5,7 +5,7 @@
 
 - 💻 I'm a full stack web developer and  Competitive Programmer.
 
-- 🌱 Currently learning **Data Structures and algorithms**
+- 🌱 Currently exploring  **Development Stuff** and **Data Structures and algorithms**
 
 - 💬 Talk me about **MERN Stack**,**Competitive Programming** and **Video Games**
 
