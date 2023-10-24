@@ -5,7 +5,7 @@
 
 - 💻 I'm a full stack web developer and  Competitive Programmer.
 
-- 🌱 Currently exploring  **Development Stuff** and **Data Structures and algorithms**
+- 🌱 Currently exploring **Data Structures and algorithms**
 
 - 💬 Talk me about **MERN Stack**,**Competitive Programming** and **Video Games**
 
@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/aditya-sharma-825016228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itsadityasharma7124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kami_samaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itsadityasharma7124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya" height="30" width="40" /></a>
 <a href="https://leetcode.com/a_D_i_T_y_A_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya" height="30" width="40" /></a>
  
  
