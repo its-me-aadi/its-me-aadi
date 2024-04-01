@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-aadi&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
 
-- 💻 I'm a full stack web developer and  Competitive Programmer.
+- 💻 MERN stack web developer and  Competitive Programmer.
 
-- 🌱 Currently exploring **Data Structures and algorithms**
+- 🌱 Currently exploring **Machine Learning**
 
-- 💬 Talk me about **MERN Stack**,**Competitive Programming** and **Video Games**
+
 
 
 <h3 align="left">Connect with me:</h3>
