@@ -5,7 +5,7 @@
 
 - 💻 MERN stack web developer and  Competitive Programmer.
 
-- 🌱 Currently exploring **Machine Learning**
+- 🌱 Working on **DSA**
 
 
 
